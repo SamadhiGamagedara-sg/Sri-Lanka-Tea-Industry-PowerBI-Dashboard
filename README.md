@@ -52,9 +52,18 @@ This project demonstrates data modeling, DAX calculations, dashboard design, and
 - Production Growth
 - Production Achievement
 
+# Dashboard Preview
+
+## Executive Dashboard
+
+![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+
+## Regional Performance
+
+![Regional Performance](Dashboard_Screenshots/Regional_Performance.png)
+
  📂 Repository Structure
 
-```
 Sri-Lanka-Tea-Industry-PowerBI-Dashboard
 │
 ├── Tea_Analysis.pbix
@@ -74,7 +83,6 @@ Sri-Lanka-Tea-Industry-PowerBI-Dashboard
 - Regional analysis helps identify production strengths and opportunities.
 - Interactive filtering enables users to explore data dynamically.
 
----
 
 🚀 Skills Demonstrated
 
@@ -97,12 +105,10 @@ Sri-Lanka-Tea-Industry-PowerBI-Dashboard
 - Add advanced DAX measures
 - Optimize the data model using a Star Schema
 
----
 
 👩‍💻 Author
 
 Samadhi Gamagedara
+www.linkedin.com/in/samadhi-gamagedara-462a2b269
 
-
-Feel free to ⭐ star this repository and connect with me on LinkedIn!
 
