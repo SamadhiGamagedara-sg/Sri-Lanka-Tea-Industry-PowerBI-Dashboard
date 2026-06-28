@@ -56,11 +56,9 @@ This project demonstrates data modeling, DAX calculations, dashboard design, and
 
 Executive Dashboard
 
-![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
+![Executive Dashboard](Dashboard%20SS/Executive_Dashboard.png.png)
 
-## Regional Performance
-
-![Regional Performance](Dashboard_Screenshots/Regional_Performance.png)
+![Regional Performance](Dashboard%20SS/Regional_Performance.png.png)
 
  📂 Repository Structure
 
