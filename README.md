@@ -54,7 +54,7 @@ This project demonstrates data modeling, DAX calculations, dashboard design, and
 
 # Dashboard Preview
 
-## Executive Dashboard
+Executive Dashboard
 
 ![Executive Dashboard](Dashboard_Screenshots/Executive_Dashboard.png)
 
